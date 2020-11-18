@@ -1,0 +1,10 @@
+GET /b34658e7f6221024f8d18a7f0d3497e4/bot?message=* HTTP/1.1
+Host: challengecybersec.fr
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: https://challengecybersec.fr/b34658e7f6221024f8d18a7f0d3497e4/
+Connection: close
+Cookie: connect.sid=s%3AY_Xrpq8CtMDHOCw2xLhz8to79k12bEjI.1%2BJp0%2Fc%2FOmwxtRilskNkmyvPpwLYoYcbHCuLkUNoP8g
+If-None-Match: W/"69-s62640F/lbZNBIWDkHMk1jUCOEM"
