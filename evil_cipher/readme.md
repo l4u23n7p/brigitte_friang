@@ -22,4 +22,4 @@ Ce challenge n'a pas été résolu.
 
 ## Write-up
 
-TBD
+- [Risk & Co](https://blog-cyber.riskeco.com/brigitte-friang-challenge-write-up/)

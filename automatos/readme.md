@@ -20,4 +20,4 @@ Malheureusement ce n'était pas le moyen de résoudre ce challenge.
 
 ## Write-up
 
-TBD
+- [Risk & Co](https://blog-cyber.riskeco.com/brigitte-friang-challenge-write-up/)
